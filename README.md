@@ -45,10 +45,6 @@ ExtraBold - 800
 
 # Notes
 
-## Availability
-
-I will also provide the sliced static fonts by `Slice` and feel free to patch your own.
-
 ## Procedures to patch
 
 - I. Download Google Sans Code fonts from [Google](https://github.com/googlefonts/googlesans-code)
