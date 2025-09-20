@@ -36,18 +36,18 @@ Regular - 400
 
 Medium - 500
 
-Semibold - 600
+SemiBold - 600
 
 Bold - 700
 
-Extrabold - 800
+ExtraBold - 800
 
 
 # Notes
 
-## Limited availability
+## Availability
 
-I haven't patch Google Sans Code Italic with Nerd Font glyphs yet, while it is also provided by Google as a variable font.
+I will also provide the sliced static fonts by `Slice` and feel free to patch your own.
 
 ## Procedures to patch
 
